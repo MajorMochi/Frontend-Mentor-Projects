@@ -1,1 +1,1 @@
-# Frontend-Mentor-Projects
+# Results summary component
